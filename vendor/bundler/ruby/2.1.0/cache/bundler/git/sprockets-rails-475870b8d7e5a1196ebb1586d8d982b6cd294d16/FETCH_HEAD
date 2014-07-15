@@ -1,0 +1,17 @@
+6a03c314bec3a84a3f6c8076bf058b33ed672a13		branch '2-0-stable' of https://github.com/rails/sprockets-rails
+8307ebd8c340a71b81067db551e0cde32d84c7a1		branch '2-1-stable' of https://github.com/rails/sprockets-rails
+ab420891efc2b7201ebe778cad63012a0e0cf467		branch 'fix-3-0' of https://github.com/rails/sprockets-rails
+58ed3c3a73d082c2ff79898affe5bdab378eeba2		branch 'master' of https://github.com/rails/sprockets-rails
+a94d156e7eb3e99fd6fab4970d430249d5564280		branch 'test-rails-4-1' of https://github.com/rails/sprockets-rails
+84c927a315463584e77205f2a104070f26ed15c6	not-for-merge	tag 'v1.0.0' of https://github.com/rails/sprockets-rails
+13234e3c40865d14fa056a05d7e7f3fd545a858c	not-for-merge	tag 'v1.0.1' of https://github.com/rails/sprockets-rails
+b522561d2d83b83c99e9aa54c8079fd1241fdf49	not-for-merge	tag 'v2.0.0' of https://github.com/rails/sprockets-rails
+46ca5e9466403fd9d5c1860e80a4d04a5d2ebae8	not-for-merge	tag 'v2.0.0.rc1' of https://github.com/rails/sprockets-rails
+22270f83fb63537cef8a638835363360f2fbaab4	not-for-merge	tag 'v2.0.0.rc2' of https://github.com/rails/sprockets-rails
+f11538f5bf3fce6a77943cb4faec2d80285ef488	not-for-merge	tag 'v2.0.0.rc3' of https://github.com/rails/sprockets-rails
+f23078b1814b5c79aefb20b1e9023e3393418004	not-for-merge	tag 'v2.0.0.rc4' of https://github.com/rails/sprockets-rails
+6a03c314bec3a84a3f6c8076bf058b33ed672a13	not-for-merge	tag 'v2.0.1' of https://github.com/rails/sprockets-rails
+4738f41272c21b690902e79ada28a764fd37217a	not-for-merge	tag 'v2.1.0' of https://github.com/rails/sprockets-rails
+0031952b561508da4aa6c0d2206b7ffd06044b35	not-for-merge	tag 'v2.1.1' of https://github.com/rails/sprockets-rails
+a292f204522cd6b5ebe4b8f4955114dee7154ae6	not-for-merge	tag 'v2.1.2' of https://github.com/rails/sprockets-rails
+bbcde33ddb1020379cdb7a30b0b676dc676e0cdd	not-for-merge	tag 'v2.1.3' of https://github.com/rails/sprockets-rails

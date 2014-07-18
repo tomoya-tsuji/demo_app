@@ -1,7 +1,7 @@
 aa609d23d312d196c6c7ca28c5e3717bf271564a		branch '3-1-stable' of https://github.com/rails/sass-rails
 0e2c205ec8b131dff103c13de2f9cd7f4938b18f		branch '3-2-stable' of https://github.com/rails/sass-rails
 dfa03c340433164a002905c8f205a6a83af3ec31		branch '4-0-stable' of https://github.com/rails/sass-rails
-3a9e47db7d769221157c82229fc1bade55b580f0		branch 'master' of https://github.com/rails/sass-rails
+57ec3397ff99655890895df29a7bf3f683410256		branch 'master' of https://github.com/rails/sass-rails
 13e2043670adf44ca09fa19b9a872e686154cb6a		branch 'new_sprockets' of https://github.com/rails/sass-rails
 94b2bd390f566d1418381015fb146cad159150cc		branch 'rm-rewrite' of https://github.com/rails/sass-rails
 44fe9c0cb1a468c51e20c0bce16a7b7ef222a22b	not-for-merge	tag '3.1.0.rc.2' of https://github.com/rails/sass-rails
